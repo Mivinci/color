@@ -34,7 +34,7 @@ You can run [_examples/main.go](_examples/main.go)  to see all the colors and st
 
 |                Package                |                Author                 |                     Description                     |
 | :-----------------------------------: | :-----------------------------------: | :-------------------------------------------------: |
-| [nut](https://github.com/mivinci/nut) | [Mivinci](https://github.com/mivinci) | Simple, fast, easy2use web framework (experimental) |
+| [abc](https://github.com/mivinci/abc) | [Mivinci](https://github.com/mivinci) | Simple, fast, easy2use web framework (experimental) |
 
 If you find [color]() works great in your project, please remember to put your package in this table via [PR](https://github.com/Mivinci/color/pulls). Thanks! 🙃
 
